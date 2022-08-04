@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/elizabeth/Documents/CG/Test01_Project/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o src/Project_01/CMakeFiles/Project_01.dir/main.cpp.o -c /home/elizabeth/Documents/CG/Test01_Project/src/Project_01/main.cpp",
+  "file": "/home/elizabeth/Documents/CG/Test01_Project/src/Project_01/main.cpp"
+},
+
+{
+  "directory": "/home/elizabeth/Documents/CG/Test01_Project/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o src/Project_02/CMakeFiles/Project_02.dir/main.cpp.o -c /home/elizabeth/Documents/CG/Test01_Project/src/Project_02/main.cpp",
+  "file": "/home/elizabeth/Documents/CG/Test01_Project/src/Project_02/main.cpp"
+},
+
+{
+  "directory": "/home/elizabeth/Documents/CG/Test01_Project/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o src/Project_03/CMakeFiles/Project_03.dir/main.cpp.o -c /home/elizabeth/Documents/CG/Test01_Project/src/Project_03/main.cpp",
+  "file": "/home/elizabeth/Documents/CG/Test01_Project/src/Project_03/main.cpp"
+}
+]
